@@ -58,7 +58,7 @@ Execute the program
 ``````
 
 ### output:
-![Alt text](/ODD2023-WT-Ex-03-Timetable/bro.png.png)
+![Alt text](image.png)
 
 
 ### result:
