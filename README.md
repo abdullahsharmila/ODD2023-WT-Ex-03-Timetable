@@ -19,7 +19,7 @@ Execute the program
   <head>
   </head>
   <body> 
-  <img src=<img src=C:\Users\admin\Desktop\git3\ODD2023-WT-Ex-03-Timetable\template.html width="800" height="500">
+  <img src="logo.png" width="800" height="500">
   <table border="2" width=50% height= 10% bordercolor="blue" >
     <tr> 
     <th colspan ="10">TIMETABLE</th>  
@@ -28,7 +28,7 @@ Execute the program
     <th colspan="2">Reference Number:</th> 
     <th  style="text-align: left" colspan="2">23013613</th> 
     <th  style="text-align:right" colspan="2"> Name:</th> 
-    <th colspan="2">Kala</th>
+    <th colspan="2">Abdullah</th>
     
     </tr> 
     <tr> 
@@ -59,7 +59,7 @@ Execute the program
 ``````
 
 ### output:
-![Alt text](image.png)
+![Alt text](<Screenshot 2023-11-20 184236.png>)
 
 
 ### result:
